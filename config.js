@@ -1,0 +1,1 @@
+exports.watchPath = '../fuel-prototype';

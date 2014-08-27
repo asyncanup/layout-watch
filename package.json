@@ -1,0 +1,30 @@
+{
+  "name": "layout-watch",
+  "version": "0.0.1",
+  "description": "Watches and live reloads your source HTML directory from outside. Provides common web dev utilities like layout for all pages, especially helpful in jQuery Mobile apps",
+  "main": "index.js",
+  "dependencies": {
+    "livereload": "0.3.4",
+	  "debug": "1.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/asyncanup/layout-watch"
+  },
+  "keywords": [
+    "livereload",
+    "layout",
+    "web",
+    "dev"
+  ],
+  "author": "Anup Bishnoi <pixelsallover@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asyncanup/layout-watch/issues"
+  },
+  "homepage": "https://github.com/asyncanup/layout-watch"
+}
